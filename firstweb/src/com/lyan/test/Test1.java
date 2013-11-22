@@ -7,6 +7,6 @@ public class Test1 {
 	public void projTest(){
 		System.out.println("test ...");
 		System.out.println("test ...");
-		System.out.println("test ...");
+		System.out.println("test1 ...");
 	}
 }
